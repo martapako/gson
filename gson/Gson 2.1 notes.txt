@@ -1,4 +1,4 @@
-Dropped support for GsonBuilder.registerTypeHierarchyAdapter+InstanceCreator
+mod test Dropped support for GsonBuilder.registerTypeHierarchyAdapter+InstanceCreator
 
 Relax registerTypeHierarchyAdapter order
 Gson 2.0 failed if you registered Manager then Employee would fail
